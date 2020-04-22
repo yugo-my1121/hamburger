@@ -133,6 +133,18 @@ body{
     color: #fff;
     text-shadow: 10px 10px 5px #000;
 }
+/*見出しタイトル*/
+.mainContent__title{
+    font-family: fantasy;
+    position: relative;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 60px;
+}
+ .mainContent__title{
+    margin-top: 30px;
+} 
 .concept__cat {
     display: flex;
     flex-wrap: wrap;
